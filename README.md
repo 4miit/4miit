@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋,</h1>
 <h1>I'm Amit Kumar</h1>
   
-<h3>A passionate Computer Science student skilled in web Development, Loves Design & Building Products.</h3>
+<h2>I like making, breaking, experimenting, developing and learning things about the web.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4miit&label=Profile%20views&color=0e75b6&style=flat" alt="4miit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4miit" alt="4miit" /></a> </p>
