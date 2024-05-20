@@ -2,11 +2,43 @@
 <h1>I'm Amit Kumar</h1>
   
 <h2>I like making, breaking, experimenting, developing and learning things about the web.</h2>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4miit&label=Profile%20views&color=0e75b6&style=flat" alt="4miit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4miit" alt="4miit" /></a> </p>
+# Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/raiiamt" target="blank"><img src="https://img.shields.io/twitter/follow/raiiamt?logo=twitter&style=for-the-badge" alt="raiiamt" /></a> </p>
+# Libraries & Frameworks 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,express,next" />
+  </a>
+</p>
+
+# Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+# Tools & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,vercel,aws" />
+  </a>
+</p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
