@@ -19,7 +19,7 @@
 # Libraries & Frameworks 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,express,next" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,express,next" />
   </a>
 </p>
 
