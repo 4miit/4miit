@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋,
-  I'm Amit Kumar</h1>
+<h1 align="left">Hi 👋,</h1>
+<h1>I'm Amit Kumar</h1>
   
 <h3>A passionate Computer Science student skilled in web Development, Loves Design & Building Products.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4miit&label=Profile%20views&color=0e75b6&style=flat" alt="4miit" /> </p>
