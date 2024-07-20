@@ -26,14 +26,14 @@
 # Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma" />
   </a>
 </p>
 
 # Tools & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,vercel,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,vercel,aws,kubernetes" />
   </a>
 </p>
 
