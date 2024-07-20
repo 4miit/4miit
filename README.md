@@ -19,7 +19,12 @@
 # Libraries & Frameworks 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,express,next" />
+    <img src="https://skillicons.dev/icons?i=react,express,next,tailwind" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </p>
 
@@ -33,10 +38,14 @@
 # Tools & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,vercel,aws,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nodejs,git,docker,vercel" />
   </a>
 </p>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+  </a>
+</p>
 
 
 
