@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,redux" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,redis" />
   </a>
 </p>
 
