@@ -1,6 +1,7 @@
 
 
-![-1_orig](https://github.com/user-attachments/assets/c2ca7cd7-ec26-4285-9eee-db97dc957e89)
+![-1_orig (1)](https://github.com/user-attachments/assets/7b769693-96ac-4d06-b045-9fa826fdf1ce)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4miit&label=Profile%20views&color=0e75b6&style=flat" alt="4miit" /> </p>
 
