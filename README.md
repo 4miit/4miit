@@ -1,11 +1,6 @@
-<h1 align="left">Hi 👋,</h1>
-<h1>I'm Amit Kumar</h1>
-  
-<h2>I like making, breaking, experimenting, developing and learning things about the web.</h2>
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![-1_orig](https://github.com/user-attachments/assets/c2ca7cd7-ec26-4285-9eee-db97dc957e89)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4miit&label=Profile%20views&color=0e75b6&style=flat" alt="4miit" /> </p>
 
